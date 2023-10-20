@@ -10,3 +10,6 @@ You can customize the project as needed by modifying the code to handle differen
 
 - The project uses the AWS SDK for Java to interact with AWS services.
 
+## Reference
+https://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/com/amazonaws/services/cloudfront/CloudFrontUrlSigner.html
+
